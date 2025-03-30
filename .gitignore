@@ -1,2 +1,12 @@
 node_modules/
 .env
+
+.idea/
+
+cmake-build-debug/
+
+.DS_Store
+
+include/
+
+*.env
